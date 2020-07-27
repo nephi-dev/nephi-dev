@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I work as a Python Developer, but with other tecnologie as well, like Js for React and React Native.
+I work as a Python Developer, but with other tecnologies as well, like Js for React and React Native.
 
 ## Tech Stack :hammer_and_wrench:
 <img height=64 width=64 src='https://yellowconnection.com/wp-content/uploads/2019/12/PinClipart.com_snake-charmer-clipart_2691398.png' alt='Something are wrong'></img>
