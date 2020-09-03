@@ -3,7 +3,7 @@
 I work as a Python Developer, but with other tecnologies as well, like Js for React and React Native.
 
 ## Tech Stack :hammer_and_wrench:
-<img height=64 width=64 src='https://yellowconnection.com/wp-content/uploads/2019/12/PinClipart.com_snake-charmer-clipart_2691398.png' alt='Something are wrong'></img>
+<img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Something are wrong'></img>
 <img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png' alt='Something are wrong'></img>
 <img height=64 width=64 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png' alt='Something are wrong'></img>
 <img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/react.svg'></img>
