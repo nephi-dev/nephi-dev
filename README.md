@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I work as a Python Developer, but with other tecnologies as well, like Js for React and React Native.
+I work as a Python Developer, but with other tecnologies as well, like React and React Native for Js.
 
 ## Tech Stack :hammer_and_wrench:
 <img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Something are wrong'></img>
