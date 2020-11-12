@@ -17,4 +17,4 @@ I work as a Python Developer, and with other tecnologies as well, like React and
 
 <a href='https://www.linkedin.com/in/m4theusmendes/'><img height=48 width=48 src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' alt='Something are wrong'></a>
 <a href='https://www.instagram.com/theus_med/'><img height=48 width=48 src='https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png' alt='Something are wrong'></a>
-<a href='mailto:mattheus2015@yahoo.com.br' style='filter: invert(49%) sepia(99%) saturate(7455%) hue-rotate(281deg) brightness(87%) contrast(115%);'><img height=48 width=48 src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png' alt='Something are wrong'></a>
+<a href='mailto:mattheus2015@yahoo.com.br'><img height=48 width=48 src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png' alt='Something are wrong' style='filter: invert(49%) sepia(99%) saturate(7455%) hue-rotate(281deg) brightness(87%) contrast(115%);'></a>
