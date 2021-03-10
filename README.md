@@ -11,7 +11,7 @@ I work as a Python Developer, and with other tecnologies as well, like React and
 
 ## Some things to know :bulb:
 
-[![Nephilim-Jack GitHub stats](https://github-readme-stats.vercel.app/api?username=Nephilim-Jack)](https://github.com/anuraghazra/github-readme-stats)
+[![Nephilim-Jack GitHub stats](https://github-readme-stats.vercel.app/api?username=Nephilim-Jack&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can connect with me in my social medias as well
 
