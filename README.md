@@ -12,8 +12,8 @@ I work as a Fullstack Developer, using some frameworks as FastAPI, Vue.Js, React
 
 ## Some things to know :bulb:
 
-[![Nephilim-Jack GitHub stats](https://github-readme-stats.vercel.app/api?username=Nephilim-Jack&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Nephilim-Jack GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nephilim-Jack&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Nephilim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nephilim-Jack&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Nephilim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nephilim-Jack&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can contact me in my social medias as well
 
