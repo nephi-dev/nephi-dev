@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I work as a Python Developer, and with other tecnologies as well, like React and React Native for Js.
+I work as a Fullstack Developer, using some frameworks as FastAPI, Vue.Js, React, Django and more. Besides that I always try to use TDD and whenever possible DDD in my projects. I am someone who loves technology news, and I spend part of my time studying new frameworks, languages, patterns, and more.
 
 ## Tech Stack :hammer_and_wrench:
 <a href="https://www.python.org/"><img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Something are wrong'></img></a>
