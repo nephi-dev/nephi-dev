@@ -13,6 +13,7 @@ I work as a Fullstack Developer, using some frameworks as FastAPI, Vue, React, D
 ## Studying :pencil:
 <a href="https://www.rust-lang.org"><img height=64 width=64 src='https://www.rust-lang.org/static/images/rust-logo-blk.svg' alt='Rust Language icon.'></img></a>
 <a href="https://flutter.dev"><img height=64 width=64 src='https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png' alt='Flutter Framework icon.'></img></a>
+<a href="https://pytorch.org"><img height=64 width=64 src='https://pytorch.org/assets/images/pytorch-logo.png' alt='PyTorch icon.'></img></a>
 
 ## Some things to know :bulb:
 
