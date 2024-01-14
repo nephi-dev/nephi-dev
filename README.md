@@ -11,7 +11,7 @@ I work as a Fullstack Developer, using some frameworks as FastAPI, Vue, React, D
 
 ## Frameworks/Libraries Stack 🛠️
 
-<a href="https://reactjs.org"><img height=64 width=64 src='https://camo.githubusercontent.com/2bdf8c7efa768a94ecfcc2470ef6a9b2d978d99eaa95a7bebcec279258761e2c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34372f52656163742e737667' alt='React Framework icon.'></img></a>
+<a href="https://reactjs.org"><img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' alt='React Framework icon.'></img></a>
 <a href="https://www.djangoproject.com"><img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/django.svg' alt='Django Framework icon.'></img></a>
 <a href="https://vuejs.org"><img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/vue-9.svg' alt='Vue Framework icon.'></img></a>
 <a href="https://fastapi.tiangolo.com"><img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/fastapi.svg' alt='FastAPI Framework icon.'></img></a>
