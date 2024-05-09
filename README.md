@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I work as a Fullstack Developer, using some frameworks as FastAPI, Vue, React, Django and more. Besides that I always try to use TDD and whenever possible DDD in my projects. I am someone who loves technology news, and I spend part of my time studying new frameworks, languages, patterns, and more.
+I work as a Fullstack Developer using some frameworks as FastAPI, Vue, React, Django and more. Besides that I always try to use TDD and whenever possible DDD in my projects. I am someone who loves technology news and I spend part of my time studying new frameworks, languages, patterns, and more.
 
 ## Languages Stack ✏️
 
