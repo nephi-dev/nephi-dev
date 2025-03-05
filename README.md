@@ -5,7 +5,7 @@ I work as a Fullstack Developer using some frameworks as FastAPI, Vue, React, Dj
 ## Languages Stack ✏️
 
 <a href="https://www.python.org"><img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Python Language icon.'></img></a>
-<a href="https://www.typescriptlang.org"><img height=64 width=64 src='//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png' alt='Typescript Language icon.'></img></a>
+<a href="https://www.typescriptlang.org"><img height=64 width=64 src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' alt='Typescript Language icon.'></img></a>
 <a href="https://www.rust-lang.org"><img height=64 width=64 src='https://www.rust-lang.org/static/images/rust-logo-blk.svg' alt='Rust Language icon.'></img></a>
 
 ## Frameworks/Libraries Stack 🛠️
