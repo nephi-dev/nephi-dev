@@ -10,7 +10,7 @@ I work as a Fullstack Developer using some frameworks as FastAPI, Vue, React, Dj
 
 ## Frameworks/Libraries Stack 🛠️
 
-<a href="https://vuejs.org"><img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/vue-9.svg' alt='Vue Framework icon.'></img></a>
+<a href="https://vuejs.org"><img height=64 width=64 src='https://github.com/vuejs/art/blob/master/logo.png' alt='Vue Framework icon.'></img></a>
 <a href="https://fastapi.tiangolo.com"><img height=64 width=64 src='https://cdn.worldvectorlogo.com/logos/fastapi.svg' alt='FastAPI Framework icon.'></img></a>
 <a href="https://pytorch.org"><img height=64 width=64 src='https://pytorch.org/assets/images/pytorch-logo.png' alt='PyTorch icon.'></img></a>
 
